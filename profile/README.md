@@ -22,4 +22,4 @@ To enforce the access control process, the application implements the Policy Enf
 
 Below is a sample policy document for granting access to the Employee and Timesheet resources of an HR project (hr-app):
 
-![alt text]([assets/vscode/vscode-screenshot.png](https://github.com/autenticami/.github/blob/main/assets/vscode/vscode-screenshot.png))
+![alt text](https://github.com/autenticami/.github/blob/main/assets/vscode/vscode-screenshot.png)
