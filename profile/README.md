@@ -1,8 +1,10 @@
 # Autenticami
 
 <p align="center">
-  <img src="assets/logo/transparent-txt/transparent-txt-2lines.svg" class="center" width="400px" height="auto"/>
+  <img src="https://github.com/autenticami/.github/raw/main/assets/logo/transparent-txt/transparent-txt-2lines.svg" class="center" width="400px" height="auto"/>
 </p>
+
+
 
 `Autenticami` A Multi-Account and Multi-Tenant Policy-Based Access Control Platform to enable a modern Identity-Based Access Control.
 
@@ -20,4 +22,4 @@ To enforce the access control process, the application implements the Policy Enf
 
 Below is a sample policy document for granting access to the Employee and Timesheet resources of an HR project (hr-app):
 
-![alt text](assets/vscode/vscode-screenshot.png)
+![alt text]([assets/vscode/vscode-screenshot.png](https://github.com/autenticami/.github/blob/main/assets/vscode/vscode-screenshot.png))
