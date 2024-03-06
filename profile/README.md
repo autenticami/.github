@@ -6,7 +6,7 @@
 
 
 
-`Autenticami` a Multi-Account and Multi-Tenant Authorization Provider.
+`Autenticami` a Multi-Account and Multi-Tenant Authorization Provider that implements the authorization layer, enabling the segregation of the application's authorization logic from the core application code.
 
 As an `Autenticami administrator` you can create multiple accounts and create multiple projects within each account.
 
