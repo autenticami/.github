@@ -6,7 +6,7 @@
 
 
 
-`Autenticami` A Multi-Account and Multi-Tenant Policy-Based Access Control Platform to enable a modern Identity-Based Access Control.
+`Autenticami` a Multi-Account and Multi-Tenant Authorization Provider.
 
 As an `Autenticami administrator` you can create multiple accounts and create multiple projects within each account.
 
