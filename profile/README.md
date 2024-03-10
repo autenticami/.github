@@ -20,6 +20,4 @@ All you have to do is describe your project's `resources` within your account an
 
 To enforce the access control process, the application implements the Policy Enforcement Point using the available SDKs
 
-Below is a sample policy document for granting access to the Employee and Timesheet resources of an HR project (hr-app):
-
 ![alt text](https://github.com/autenticami/.github/blob/main/assets/vscode/vscode-screenshot.png)
