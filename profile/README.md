@@ -8,9 +8,9 @@
 
 `Autenticami` a Multi-Account and Multi-Tenant Authorization Provider that implements the authorization layer, enabling the segregation of the application's authorization logic from the core application code.
 
-As an `Autenticami administrator` you can create multiple accounts and create multiple projects within each account.
+As an `Autenticami administrator` you can create multiple accounts and create multiple schemas within each account.
 
-All you have to do is describe your project's `resources` within your account and create your own access control policies. Resources are organized into project's domains.
+All you have to do is describe your schema's `resources` within your account and create your own access control policies. Resources are organized into schema's domains.
 
 `Autenticami` allows to specify who or what can access resources by the means of fine-grained permissions:
 
